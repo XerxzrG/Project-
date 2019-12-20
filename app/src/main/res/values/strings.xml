@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hotelku</string>
+    <string name="empty_list_text"> </string>
+    <string name="add_record">add</string>
+</resources>
